@@ -1,2 +1,1 @@
-# Basics-of-the-C-programming-language
-# C#
+# Basics of the C# programming language
