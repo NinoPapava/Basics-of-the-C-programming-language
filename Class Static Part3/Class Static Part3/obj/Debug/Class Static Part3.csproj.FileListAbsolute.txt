@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Class Static Part3\Class Static Part3\bin\Debug\Class Static Part3.exe.config
+C:\Users\user\source\repos\Class Static Part3\Class Static Part3\bin\Debug\Class Static Part3.exe
+C:\Users\user\source\repos\Class Static Part3\Class Static Part3\bin\Debug\Class Static Part3.pdb
+C:\Users\user\source\repos\Class Static Part3\Class Static Part3\obj\Debug\Class Static Part3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Class Static Part3\Class Static Part3\obj\Debug\Class Static Part3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Class Static Part3\Class Static Part3\obj\Debug\Class Static Part3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Class Static Part3\Class Static Part3\obj\Debug\Class Static Part3.exe
+C:\Users\user\source\repos\Class Static Part3\Class Static Part3\obj\Debug\Class Static Part3.pdb
